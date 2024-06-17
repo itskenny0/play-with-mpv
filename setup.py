@@ -49,7 +49,7 @@ setup(
     },
     setup_requires=['wheel', 'install_freedesktop>=0.2.0'],
     dependency_links=[
-        "https://github.com/thann/install_freedesktop/tarball/master#egg=install_freedesktop-0.2.0"
+        "https://github.com/thann/install_freedesktop/tarball/master#egg=install_freedesktop-0.1.2"
     ],
     desktop_entries={
         'play-with-mpv': {

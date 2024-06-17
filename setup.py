@@ -47,7 +47,7 @@ setup(
             'play-with-mpv=play_with_mpv:start',
         ],
     },
-    setup_requires=['wheel', 'install_freedesktop>=0.2.0'],
+    setup_requires=['wheel', 'install_freedesktop>=0.1.2'],
     dependency_links=[
         "https://github.com/thann/install_freedesktop/tarball/master#egg=install_freedesktop-0.1.2"
     ],
